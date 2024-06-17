@@ -145,7 +145,7 @@ int main() {
     fclose(tempFile);
     fclose(finalFile);
 
-    remove(tempFilename);12
+    remove(tempFilename);
 
     printf("\nNumber of solutions found: %d\n", solutionCount);
     printf("Number of iterations: %lld\n", totalIterationCount);
