@@ -52,8 +52,8 @@ NQueenSolver is a program that solves the classic N-Queens puzzle. The objective
 ## Example Output
 
 Upon running the program and entering the size of the board as 8, you will get an output file similar to:
-
     ```sh
+
     
     Number of solutions found: 92
     Number of iterations: 205024
