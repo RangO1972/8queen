@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "vector": "cpp",
+        "time.h": "c"
+    }
+}
