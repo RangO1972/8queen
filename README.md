@@ -15,18 +15,18 @@ NQueenSolver is a program that solves the classic N-Queens puzzle. The objective
 ## Usage
 
 1. **Clone the Repository:**
-    ```sh
+    ```
     git clone https://github.com/stefanoranghetto/NQueenSolver.git
     cd NQueenSolver
     ```
 
 2. **Compile the Program:**
-    ```sh
+    ```
     gcc -o NQueenSolver NQueenSolver.c -lm
     ```
 
 3. **Run the Program:**
-    ```sh
+    ```
     ./NQueenSolver
     ```
 
@@ -52,27 +52,25 @@ NQueenSolver is a program that solves the classic N-Queens puzzle. The objective
 ## Example Output
 
 Upon running the program and entering the size of the board as 8, you will get an output file similar to:
-    ```sh
+```
+Number of solutions found: 92
+Number of iterations: 205024
+Average iterations: 2228
+Time taken: 0.12 seconds
+   
+Solution 1 - Iterations 2228
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . Q
+    
+  ...
 
-    
-    Number of solutions found: 92
-    Number of iterations: 205024
-    Average iterations: 2228
-    Time taken: 0.12 seconds
-    
-    Solution 1 - Iterations 2228
-    Q . . . . . . .
-    . . . . Q . . .
-    . . . . . . Q .
-    . . . Q . . . .
-    . Q . . . . . .
-    . . . . . Q . .
-    . . Q . . . . .
-    . . . . . . . Q
-    
-    ...
-
-    ```
+```
 
   
 ## Author
