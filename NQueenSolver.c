@@ -98,7 +98,7 @@ int main() {
     strftime(datetime, sizeof(datetime), "%Y%m%d_%H%M%S", local);
 
     char filename[256];
-    snprintf(filename, sizeof(filename), "%d_Queen_sol_%s.txt", N, datetime);
+    snprintf(filename, sizeof(filename), "%d_Queen_solution_%s.txt", N, datetime);
 
     char tempFilename[] = "temp_queen_solutions.txt";
 
