@@ -16,7 +16,7 @@ NQueenSolver is a program that solves the classic N-Queens puzzle. The objective
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/stefanoranghetto/NQueenSolver.git
+    git clone https://github.com/RangO1972/8queen.git
     cd NQueenSolver
     ```
 
