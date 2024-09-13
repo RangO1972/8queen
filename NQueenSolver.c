@@ -5,7 +5,7 @@
 #include <math.h>
 
 // Author: Stefano Ranghetto
-// GitHub: https://github.com/stefanoranghetto
+// GitHub: https://github.com/RangO1972/8queen
 
 long long int totalIterationCount = 0; // Total iteration counter
 
